@@ -1,0 +1,25 @@
+{
+  "name": "top-view",
+  "version": "1.0.0",
+  "description": "The backbone of an app that lets you socialize your geolocation with your friends, a group of people and with a lot of anonymous people.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cassiohg/top-view.git"
+  },
+  "keywords": [
+    "geolocation",
+    "sharing",
+    "social",
+    "GPS"
+  ],
+  "author": "Cassio Holanda Gonçalves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cassiohg/top-view/issues"
+  },
+  "homepage": "https://github.com/cassiohg/top-view"
+}
