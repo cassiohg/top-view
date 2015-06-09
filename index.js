@@ -20,7 +20,7 @@ app.use('/', function (req, res, next) {
 app.get('/', function (req, res, next) {
 	// var newPerson = new Person(newPersonID)
 
-	res.json("{'message': 'welcome to top view server'}")
+	res.json({'message': 'welcome to top view server'})
 });
 
 // accept POST request on the homepage
